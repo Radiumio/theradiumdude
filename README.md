@@ -2,6 +2,7 @@
 - 🔍 **Community Manager for `6 Years`**
 - 🎬 **YouTube Creator for `7 Years`**
 - 🎮 **Been playing video-games for `as long as I can remember`**
+- 📀 **Why am I on Github? `Well, code of course!`**
 
 ## Medias
 <p align="left">
@@ -9,21 +10,12 @@
 <a href="https://www.youtube.com/channel/UCsPllBakpkET6KjNDhzteUQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="radium" height="30" width="40" /></a>
 </p>
 
+## Contact
+- **Discord:** *Radium#7729*
+- **Steam:** [Radium's Profile](https://steamcommunity.com/id/theradination/)
+- **General Contact:** shaianmacleod@gmail.com
+- **🚧 Business Inquiries 🚧:** real.brendan.am@gmail.com
+
 ## Latest Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-<!--
-**TheRadiumDude/theradiumdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
