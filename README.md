@@ -2,7 +2,7 @@
 - 🔍 **Community Manager for `6 Years`**
 - 🎬 **YouTube Creator for `7 Years`**
 - 🎮 **Been playing video-games for `as long as I can remember`**
-- 📀 **Why am I on Github? `Well, code of course!`**
+- 📀 **Why am I on Github? `Well, coding of course!`**
 
 ## Medias
 <p align="left">
