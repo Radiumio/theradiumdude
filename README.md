@@ -18,9 +18,9 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
+- [Elite Dangerous - Trip Sigma - Expedition Trailer](https://www.youtube.com/watch?v=BwXPs5ZdISU)
 - [bomber-scare.avi](https://www.youtube.com/watch?v=cwQfvCc9I0c)
 - [TRIP EPSILON - Commemoration Video](https://www.youtube.com/watch?v=6x6SOnCQgGE)
 - [Elite: Dangerous - Trip Epsilon - Expedition Trailer](https://www.youtube.com/watch?v=zbBdK24NMBg)
 - [Random ArmA 3 Clips](https://www.youtube.com/watch?v=LSNf4LClS1M)
-- [TRIP GAMMA - Commemoration Video](https://www.youtube.com/watch?v=5lUbDbtFuKI)
 <!-- YOUTUBE:END -->
