@@ -18,9 +18,9 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
+- [Elite Dangerous: Odyssey - Indoor Combat Clip](https://www.youtube.com/watch?v=RzL_FQhsEWQ)
 - [Random ArmA 3 Clips Part 2](https://www.youtube.com/watch?v=i5GFvb1-fIg)
 - [TITAN Contractors - First Anniversary](https://www.youtube.com/watch?v=DOqBKYB_tXE)
 - [Elite Dangerous - Trip Sigma - Expedition Trailer](https://www.youtube.com/watch?v=BwXPs5ZdISU)
 - [bomber-scare.avi](https://www.youtube.com/watch?v=cwQfvCc9I0c)
-- [TRIP EPSILON - Commemoration Video](https://www.youtube.com/watch?v=6x6SOnCQgGE)
 <!-- YOUTUBE:END -->
