@@ -18,9 +18,9 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
+- [Elite Dangerous: Odyssey - New Jump Animation](https://www.youtube.com/watch?v=eGJco8tjf7o)
 - [Elite Dangerous: Odyssey - Settlement Restoration Gameplay](https://www.youtube.com/watch?v=diQnp-EXzro)
 - [Elite Dangerous: Odyssey - Indoor Combat Clip](https://www.youtube.com/watch?v=RzL_FQhsEWQ)
 - [Random ArmA 3 Clips Part 2](https://www.youtube.com/watch?v=i5GFvb1-fIg)
 - [TITAN Contractors - First Anniversary](https://www.youtube.com/watch?v=DOqBKYB_tXE)
-- [Elite Dangerous - Trip Sigma - Expedition Trailer](https://www.youtube.com/watch?v=BwXPs5ZdISU)
 <!-- YOUTUBE:END -->
