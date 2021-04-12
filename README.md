@@ -18,9 +18,9 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
+- [TITAN Contractors - Eclipse TF Combat Footage](https://www.youtube.com/watch?v=1b8hwi2kf1Y)
 - [Elite Dangerous: Odyssey - Investigating Irregular Markers POI](https://www.youtube.com/watch?v=EQXZlyde4AA)
 - [Elite Dangerous: Odyssey - New Jump Animation](https://www.youtube.com/watch?v=eGJco8tjf7o)
 - [Elite Dangerous: Odyssey - Settlement Restoration Gameplay](https://www.youtube.com/watch?v=diQnp-EXzro)
 - [Elite Dangerous: Odyssey - Indoor Combat Clip](https://www.youtube.com/watch?v=RzL_FQhsEWQ)
-- [Random ArmA 3 Clips Part 2](https://www.youtube.com/watch?v=i5GFvb1-fIg)
 <!-- YOUTUBE:END -->
