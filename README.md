@@ -18,9 +18,9 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
+- [Elite Dangerous: Odyssey - Surviving a Geyser Jump](https://www.youtube.com/watch?v=4CtxqDigYTM)
 - [Elite Dangerous: Odyssey - DO IT FOR THE SMEAR CAMPAIGNS](https://www.youtube.com/watch?v=bMQW9gSlgps)
 - [Elite Dangerous: Odyssey - THIS IS A NO FIRE ZONE](https://www.youtube.com/watch?v=yNSk3Y-kLi8)
 - [TITAN Contractors - Eclipse TF Combat Footage](https://www.youtube.com/watch?v=1b8hwi2kf1Y)
 - [Elite Dangerous: Odyssey - Investigating Irregular Markers POI](https://www.youtube.com/watch?v=EQXZlyde4AA)
-- [Elite Dangerous: Odyssey - New Jump Animation](https://www.youtube.com/watch?v=eGJco8tjf7o)
 <!-- YOUTUBE:END -->
