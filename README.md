@@ -1,6 +1,6 @@
 # 📋 About Me 📋
-- 🔍 **Community Manager for `6 Years`**
-- 🎬 **YouTube Creator for `7 Years`**
+- 🔍 **Community Manager for `since 2014`**
+- 🎬 **_Mostly_ self-taught in `writing, digital graphics/artwork and video-editing.`**
 - 🎮 **Been playing video-games for `as long as I can remember`**
 
 ## Medias
